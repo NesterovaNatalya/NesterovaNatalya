@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**My name's Natalya Nesterova.**
+
+ I'm beginning my way in IT. I have educational and practical experience in data analysis. Yandex.Practicim helped me to start developing in this directon. I have completed my studies and now I'm ready to work hard to develop my professional skills at work because data analysis is very interesting for me.
+ 
+ **DevOps**
+ 
+ Python, Github Actions, Google Sheets, Excel
+ 
+ **Databases:**
+ 
+ PostgreSQL, MySQL
+ 
+ **Data Science:**
+ 
+ Python, Pandas, Numpy, Matplotlib, SciPy
+ 
+ 
+ 
